@@ -38,7 +38,7 @@ This project overcomes the limitations of standard architectures by integrating 
 ---
 
 ### 📂 Repository Structure
-* `PROJECT REPORT.pdf` - Detailed academic documentation of the engineering approach.
-* `RESEARCH PAPER.pdf` - Formal paper detailing the novel architecture.
-* `wavelet_cnn_transformer_gated_...` - Core source code files for model training and evaluation.
+* `PROJECT REPORT.pdf` - Detailed academic documentation of project
+* `RESEARCH PAPER.pdf` - Paper detailing the novel architecture.
+* `wavelet_cnn_transformer_gated_...` - The source code file of the model.
 
